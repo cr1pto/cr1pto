@@ -12,7 +12,7 @@
   - Worker's Compensation Insurance Software
 
  - Thanks. - @cr1pto.
- - https://www.biblegateway.com/passage/?search=Deuteronomy+6%3A4-5&version=NIV  
+ - https://www.biblegateway.com/passage/?search=Deuteronomy+6%3A4-5&version=KVJ
 
 <!---
 cr1pto/cr1pto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
